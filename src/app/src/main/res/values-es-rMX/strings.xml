@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="next">Siguiente</string>
+    <string name="hello_first_fragment">Hola !!</string>
+    <string name="previous">Previo</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="second_fragment_label">Configuracion</string>
+    <string name="first_fragment_label">Primero</string>
+
+    <string name="cdc_name">Nombre</string>
+    <string name="cdc_lastname">Apellido</string>
+    <string name="cdc_age">Edad</string>
+    <string name="cdc_fechanac">Fecha de nacimiento</string>
+
+</resources>
